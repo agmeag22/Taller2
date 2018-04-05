@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppLifeES</string>
+    <string name="settings">Ajustes</string>
+    <string name="profile">Perfil</string>
+    <string name="budget">Presupuesto</string>
+    <string name="favorites">Favoritos</string>
+    <string name="incoming">Ingresos</string>
+    <string name="outcoming">Egresos</string>
+</resources>
